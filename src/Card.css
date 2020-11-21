@@ -1,0 +1,19 @@
+.bg-light-green{
+    background: lightgreen;
+    transition: transform 0.7s ease-in;
+    display: inline-block;
+    box-shadow: 2px 2px 2px ;
+    text-align: center;
+}
+.br3{
+    border-radius: 12px;
+}
+.grow:hover{
+    transform: scale(1.05);
+}
+.pa3{
+    padding: 3px;
+}
+.ma2{
+    margin: 1%;
+}

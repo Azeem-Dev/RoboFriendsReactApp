@@ -1,0 +1,12 @@
+.scrollHidden::-webkit-scrollbar {
+    display: none;
+}
+.scrollHidden{
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }
+  .scrollHidden{
+    overflow:scroll;
+    border:none;
+    height:500px;
+  }
